@@ -1,0 +1,9 @@
+name = "counter"
+main = "src/worker.js"
+compatibility_date = "2025-03-24"
+workers_dev = true
+preview_urls = true
+
+[[kv_namespaces]]
+id = "9a0c772a5b8d4663af2b958d69a933a1"
+binding = "COUNTERS"
